@@ -1,6 +1,7 @@
 using System;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -25,7 +26,14 @@ namespace Wolfpack.API
         {
             services.AddDbContext<DataContext>(options =>
             {
-                var connectionString = Configuration.GetConnectionString("WolfDB");
+                var connectionBuilder = new SqlConnectionStringBuilder(
+                    Configuration.GetConnectionString("WolfDB"))
+                {
+                    Password = Configuration["DbPassword"],
+                    UserID = Configuration["DbUser"]
+                };
+                var connectionString = connectionBuilder.ConnectionString;
+
                 if (!string.IsNullOrEmpty(connectionString))
                     options.UseSqlServer(connectionString);
             }, ServiceLifetime.Singleton);
