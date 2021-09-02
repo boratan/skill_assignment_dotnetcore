@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\C#\\SkillAssessment\\Wolfpack.API\\Wolfpack.API.csproj": {}
+    "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.API\\Wolfpack.API.csproj": {}
   },
   "projects": {
-    "D:\\Code\\C#\\SkillAssessment\\Wolfpack.API\\Wolfpack.API.csproj": {
+    "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.API\\Wolfpack.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.API\\Wolfpack.API.csproj",
+        "projectUniqueName": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.API\\Wolfpack.API.csproj",
         "projectName": "Wolfpack.API",
-        "projectPath": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.API\\Wolfpack.API.csproj",
+        "projectPath": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.API\\Wolfpack.API.csproj",
         "packagesPath": "C:\\Users\\Trick\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.API\\obj\\",
+        "outputPath": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "D:\\Code\\C#\\SkillAssessment\\Wolfpack.Data\\Wolfpack.Data.csproj": {
-                "projectPath": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.Data\\Wolfpack.Data.csproj"
+              "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.Data\\Wolfpack.Data.csproj": {
+                "projectPath": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.Data\\Wolfpack.Data.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "D:\\Code\\C#\\SkillAssessment\\Wolfpack.Data\\Wolfpack.Data.csproj": {
+    "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.Data\\Wolfpack.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.Data\\Wolfpack.Data.csproj",
+        "projectUniqueName": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.Data\\Wolfpack.Data.csproj",
         "projectName": "Wolfpack.Data",
-        "projectPath": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.Data\\Wolfpack.Data.csproj",
+        "projectPath": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.Data\\Wolfpack.Data.csproj",
         "packagesPath": "C:\\Users\\Trick\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.Data\\obj\\",
+        "outputPath": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -155,11 +155,11 @@
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "D:\\Code\\C#\\SkillAssessment\\Wolfpack.DomainModels\\Wolfpack.DomainModel.csproj": {
-                "projectPath": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.DomainModels\\Wolfpack.DomainModel.csproj"
+              "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.DomainModels\\Wolfpack.DomainModel.csproj": {
+                "projectPath": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.DomainModels\\Wolfpack.DomainModel.csproj"
               },
-              "D:\\Code\\C#\\SkillAssessment\\Wolfpack.Service\\Wolfpack.DomainServices.csproj": {
-                "projectPath": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.Service\\Wolfpack.DomainServices.csproj"
+              "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.Service\\Wolfpack.DomainServices.csproj": {
+                "projectPath": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.Service\\Wolfpack.DomainServices.csproj"
               }
             }
           }
@@ -228,14 +228,14 @@
         }
       }
     },
-    "D:\\Code\\C#\\SkillAssessment\\Wolfpack.DomainModels\\Wolfpack.DomainModel.csproj": {
+    "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.DomainModels\\Wolfpack.DomainModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.DomainModels\\Wolfpack.DomainModel.csproj",
+        "projectUniqueName": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.DomainModels\\Wolfpack.DomainModel.csproj",
         "projectName": "Wolfpack.DomainModel",
-        "projectPath": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.DomainModels\\Wolfpack.DomainModel.csproj",
+        "projectPath": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.DomainModels\\Wolfpack.DomainModel.csproj",
         "packagesPath": "C:\\Users\\Trick\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.DomainModels\\obj\\",
+        "outputPath": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.DomainModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -299,14 +299,14 @@
         }
       }
     },
-    "D:\\Code\\C#\\SkillAssessment\\Wolfpack.Service\\Wolfpack.DomainServices.csproj": {
+    "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.Service\\Wolfpack.DomainServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.Service\\Wolfpack.DomainServices.csproj",
+        "projectUniqueName": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.Service\\Wolfpack.DomainServices.csproj",
         "projectName": "Wolfpack.DomainServices",
-        "projectPath": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.Service\\Wolfpack.DomainServices.csproj",
+        "projectPath": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.Service\\Wolfpack.DomainServices.csproj",
         "packagesPath": "C:\\Users\\Trick\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.Service\\obj\\",
+        "outputPath": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -326,8 +326,8 @@
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "D:\\Code\\C#\\SkillAssessment\\Wolfpack.DomainModels\\Wolfpack.DomainModel.csproj": {
-                "projectPath": "D:\\Code\\C#\\SkillAssessment\\Wolfpack.DomainModels\\Wolfpack.DomainModel.csproj"
+              "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.DomainModels\\Wolfpack.DomainModel.csproj": {
+                "projectPath": "D:\\GitRepository\\skill_assignment_dotnetcore\\SkillAssessment\\Wolfpack.DomainModels\\Wolfpack.DomainModel.csproj"
               }
             }
           }
