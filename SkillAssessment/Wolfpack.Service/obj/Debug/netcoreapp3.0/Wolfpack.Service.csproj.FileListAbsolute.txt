@@ -1,5 +1,0 @@
-D:\Code\C#\SkillAssessment\Wolfpack.Service\bin\Debug\netcoreapp3.0\Wolfpack.Service.deps.json
-D:\Code\C#\SkillAssessment\Wolfpack.Service\bin\Debug\netcoreapp3.0\Wolfpack.Service.dll
-D:\Code\C#\SkillAssessment\Wolfpack.Service\obj\Debug\netcoreapp3.0\Wolfpack.Service.csprojAssemblyReference.cache
-D:\Code\C#\SkillAssessment\Wolfpack.Service\obj\Debug\netcoreapp3.0\Wolfpack.Service.AssemblyInfoInputs.cache
-D:\Code\C#\SkillAssessment\Wolfpack.Service\obj\Debug\netcoreapp3.0\Wolfpack.Service.AssemblyInfo.cs
