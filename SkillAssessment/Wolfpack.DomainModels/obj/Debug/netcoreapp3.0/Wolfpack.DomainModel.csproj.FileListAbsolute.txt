@@ -1,0 +1,9 @@
+D:\Code\C#\SkillAssessment\Wolfpack.DomainModels\bin\Debug\netcoreapp3.0\Wolfpack.DomainModel.deps.json
+D:\Code\C#\SkillAssessment\Wolfpack.DomainModels\bin\Debug\netcoreapp3.0\Wolfpack.DomainModel.dll
+D:\Code\C#\SkillAssessment\Wolfpack.DomainModels\bin\Debug\netcoreapp3.0\Wolfpack.DomainModel.pdb
+D:\Code\C#\SkillAssessment\Wolfpack.DomainModels\obj\Debug\netcoreapp3.0\Wolfpack.DomainModel.csprojAssemblyReference.cache
+D:\Code\C#\SkillAssessment\Wolfpack.DomainModels\obj\Debug\netcoreapp3.0\Wolfpack.DomainModel.AssemblyInfoInputs.cache
+D:\Code\C#\SkillAssessment\Wolfpack.DomainModels\obj\Debug\netcoreapp3.0\Wolfpack.DomainModel.AssemblyInfo.cs
+D:\Code\C#\SkillAssessment\Wolfpack.DomainModels\obj\Debug\netcoreapp3.0\Wolfpack.DomainModel.dll
+D:\Code\C#\SkillAssessment\Wolfpack.DomainModels\obj\Debug\netcoreapp3.0\Wolfpack.DomainModel.pdb
+D:\Code\C#\SkillAssessment\Wolfpack.DomainModels\obj\Debug\netcoreapp3.0\Wolfpack.DomainModel.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+D:\Code\C#\SkillAssessment\Wolfpack.Data\bin\Debug\netcoreapp3.0\Wolfpack.Data.deps.json
+D:\Code\C#\SkillAssessment\Wolfpack.Data\bin\Debug\netcoreapp3.0\Wolfpack.Data.dll
+D:\Code\C#\SkillAssessment\Wolfpack.Data\obj\Debug\netcoreapp3.0\Wolfpack.Data.csprojAssemblyReference.cache
+D:\Code\C#\SkillAssessment\Wolfpack.Data\obj\Debug\netcoreapp3.0\Wolfpack.Data.AssemblyInfoInputs.cache
+D:\Code\C#\SkillAssessment\Wolfpack.Data\obj\Debug\netcoreapp3.0\Wolfpack.Data.AssemblyInfo.cs
+D:\Code\C#\SkillAssessment\Wolfpack.Data\bin\Debug\netcoreapp3.0\Wolfpack.Data.pdb
+D:\Code\C#\SkillAssessment\Wolfpack.Data\bin\Debug\netcoreapp3.0\Wolfpack.DomainModel.dll
+D:\Code\C#\SkillAssessment\Wolfpack.Data\bin\Debug\netcoreapp3.0\Wolfpack.DomainModel.pdb
+D:\Code\C#\SkillAssessment\Wolfpack.Data\obj\Debug\netcoreapp3.0\Wolfpack.Data.csproj.CopyComplete
+D:\Code\C#\SkillAssessment\Wolfpack.Data\obj\Debug\netcoreapp3.0\Wolfpack.Data.dll
+D:\Code\C#\SkillAssessment\Wolfpack.Data\obj\Debug\netcoreapp3.0\Wolfpack.Data.pdb
+D:\Code\C#\SkillAssessment\Wolfpack.Data\bin\Debug\netcoreapp3.0\Wolfpack.DomainServices.dll
+D:\Code\C#\SkillAssessment\Wolfpack.Data\bin\Debug\netcoreapp3.0\Wolfpack.DomainServices.pdb
+D:\Code\C#\SkillAssessment\Wolfpack.Data\bin\Debug\netcoreapp3.0\Wolfpack.Data.runtimeconfig.json
+D:\Code\C#\SkillAssessment\Wolfpack.Data\bin\Debug\netcoreapp3.0\Wolfpack.Data.runtimeconfig.dev.json
+D:\Code\C#\SkillAssessment\Wolfpack.Data\obj\Debug\netcoreapp3.0\Wolfpack.Data.csproj.CoreCompileInputs.cache
+D:\Code\C#\SkillAssessment\Wolfpack.Data\obj\Debug\netcoreapp3.0\Wolfpack.Data.genruntimeconfig.cache

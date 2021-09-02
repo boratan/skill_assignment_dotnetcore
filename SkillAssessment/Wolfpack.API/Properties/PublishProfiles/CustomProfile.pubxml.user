@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOlyh58vGqkKrSyiDj74hPwAAAAACAAAAAAAQZgAAAAEAACAAAADxc5NXhCHGlTLT7qRJZSAzvBtP3IXxd1Z/EwSD6AXqigAAAAAOgAAAAAIAACAAAAA1uc/ozf7QA3ntDj/szffvPlnvLjKqUQV8r9buxxMp8yAAAACX/iiYw0j79eLbldc/ZUDPw/BDC9lD5TQtQP+KcykiskAAAABbSmq/44T1XSb2UTYT20K8vfU4OHmNTQR/Gyr+5kg9ALi7MBw1H+n3ckzs1VsKnGfn1fyYkbsDbiHiUSrz6guz</EncryptedPassword>
+    <_PublishTargetUrl>ftp://venus.fhict.nl</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="WolfDB">
+      <Value>Server=mssql.fhict.local%3bDatabase=dbi354576%3bUser Id=dbi354576%3bPassword=dagoeba%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Wolfpack.DomainServices/1.0.0": {
+        "dependencies": {
+          "Wolfpack.DomainModel": "1.0.0"
+        },
+        "runtime": {
+          "Wolfpack.DomainServices.dll": {}
+        }
+      },
+      "Wolfpack.DomainModel/1.0.0": {
+        "runtime": {
+          "Wolfpack.DomainModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wolfpack.DomainServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wolfpack.DomainModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
